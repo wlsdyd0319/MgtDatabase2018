@@ -1,24 +1,6 @@
 {
  "cells": [
   {
-   "cell_type": "code",
-   "execution_count": 1,
-   "metadata": {},
-   "outputs": [
-    {
-     "ename": "SyntaxError",
-     "evalue": "invalid syntax (<ipython-input-1-f11fb249b7d1>, line 1)",
-     "output_type": "error",
-     "traceback": [
-      "\u001b[1;36m  File \u001b[1;32m\"<ipython-input-1-f11fb249b7d1>\"\u001b[1;36m, line \u001b[1;32m1\u001b[0m\n\u001b[1;33m    print\"3번째수업\"\u001b[0m\n\u001b[1;37m               ^\u001b[0m\n\u001b[1;31mSyntaxError\u001b[0m\u001b[1;31m:\u001b[0m invalid syntax\n"
-     ]
-    }
-   ],
-   "source": [
-    "print\"3번째수업\""
-   ]
-  },
-  {
    "cell_type": "markdown",
    "metadata": {},
    "source": [
